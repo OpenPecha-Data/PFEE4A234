@@ -1,0 +1,103 @@
+id: 58e9eebc68fc46a5ba0cf00116ee1da8
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  f1fbca2f0edb4c49a75f20662702defa:
+    span:
+      start: 0
+      end: 2770
+    metadata:
+      page_no: 1
+    page_info: null
+    imgnum: null
+    reference: null
+  2c192409ccff479ea4effbcbaf281b31:
+    span:
+      start: 2772
+      end: 10025
+    metadata:
+      page_no: 2
+    page_info: null
+    imgnum: null
+    reference: null
+  e936f9a7b2e746dab697df0acc0ebfdb:
+    span:
+      start: 10027
+      end: 15978
+    metadata:
+      page_no: 3
+    page_info: null
+    imgnum: null
+    reference: null
+  eb9ee68f5a534d9b9f159663068a8970:
+    span:
+      start: 15980
+      end: 23374
+    metadata:
+      page_no: 4
+    page_info: null
+    imgnum: null
+    reference: null
+  3bc85739fd13439b944ca78ac30b80b4:
+    span:
+      start: 23376
+      end: 31159
+    metadata:
+      page_no: 5
+    page_info: null
+    imgnum: null
+    reference: null
+  039be68a627040f6a41dfaab901a3106:
+    span:
+      start: 31161
+      end: 35949
+    metadata:
+      page_no: 6
+    page_info: null
+    imgnum: null
+    reference: null
+  408dcb36a668496784433fb632d7a3a8:
+    span:
+      start: 35951
+      end: 43456
+    metadata:
+      page_no: 7
+    page_info: null
+    imgnum: null
+    reference: null
+  5a6e6c0c1e8446aebbf6f4b2cb48ab81:
+    span:
+      start: 43458
+      end: 46351
+    metadata:
+      page_no: 8
+    page_info: null
+    imgnum: null
+    reference: null
+  6d04db120531475cbde4f3111d6ec767:
+    span:
+      start: 46353
+      end: 49308
+    metadata:
+      page_no: 9
+    page_info: null
+    imgnum: null
+    reference: null
+  1e8ca65e4c67406bbaeb008fd5e4527b:
+    span:
+      start: 49310
+      end: 51842
+    metadata:
+      page_no: 10
+    page_info: null
+    imgnum: null
+    reference: null
+  3c012008cfb74856b12dbb228e01df7e:
+    span:
+      start: 51844
+      end: 54378
+    metadata:
+      page_no: 11
+    page_info: null
+    imgnum: null
+    reference: null
